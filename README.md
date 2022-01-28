@@ -5,8 +5,8 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell
 * Bullet list
   * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+   * Sub-nested bullet etc
+* Bullet list item 2
 
 
 
