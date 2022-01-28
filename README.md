@@ -1,2 +1,4 @@
 # rust1
-Markup :  `code()`
+Markup : ```javascript
+         ```
+         
