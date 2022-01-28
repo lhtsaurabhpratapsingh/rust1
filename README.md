@@ -1,2 +1,2 @@
 # rust1
-"* hello"
+"*" hello
