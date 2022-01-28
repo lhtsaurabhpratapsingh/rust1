@@ -1,1 +1,2 @@
 # rust1
+"* hello"
